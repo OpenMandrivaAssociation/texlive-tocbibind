@@ -49,3 +49,16 @@ contents, etc., to the Table of Contents listing.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.5k-2
++ Revision: 757000
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.5k-1
++ Revision: 719771
+- texlive-tocbibind
+- texlive-tocbibind
+- texlive-tocbibind
+
