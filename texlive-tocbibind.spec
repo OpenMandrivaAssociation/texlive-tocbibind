@@ -6,7 +6,7 @@
 # catalog-version 1.5k
 Name:		texlive-tocbibind
 Version:	1.5k
-Release:	6
+Release:	7
 Summary:	Add bibliography/index/contents to Table of Contents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tocbibind
