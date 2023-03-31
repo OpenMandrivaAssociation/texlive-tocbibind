@@ -1,6 +1,6 @@
 Name:		texlive-tocbibind
 Version:	20085
-Release:	1
+Release:	2
 Summary:	Add bibliography/index/contents to Table of Contents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tocbibind
